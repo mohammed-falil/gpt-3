@@ -1,7 +1,7 @@
 import React from 'react'
 import {Footer,Blog , Possibility,Features,WhatGPT3,Header } from "./containers";
 import {CTA,Brand ,Navbar} from "./Components";
-
+import "./App.css"
 function App() {
   return (
     <div className='App'>
