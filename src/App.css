@@ -59,12 +59,12 @@ a{
 }
 
  .section_padding {
-  padding: 4rem 6rem;
+  padding: 4rem 3rem;
 }
-/*
+
 .section_margin {
   margin: 4rem 6rem;
-}*/
+}
 
 .scale-up-center {
 	-webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
@@ -108,7 +108,7 @@ a{
   /*For Phones*/
   @media screen and (max-width:550px){
       .section_padding{
-          padding: 4rme 2rem;
+          padding: 4rem 1rem;
       }
 
       .section_margin{

@@ -18,7 +18,7 @@ function Header() {
           hic culpa doloribus?
         </p>
         <div className="gpt3_header_content_input">
-          <input type="email" placeholder="Enter your email id " />
+          <input type="email" placeholder="Enter your email Id " />
           <button type="button">GetStarted</button>
         </div>
         <div className="gpt3_content_people">
