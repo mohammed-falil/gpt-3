@@ -1,8 +1,8 @@
 .gpt3_feature_container_feature{
     width: 100%;
     display: flex;
-    justify-content: space-between;
-    /* align-items: flex-start; */
+    justify-content: space-evenly;
+ 
     margin: 1rem;
 }
 
@@ -47,13 +47,13 @@
 
 @media screen and (max-width:550px){
     .gpt3_feature_container_feature_title h1{
-        font-size: 14px;
-        line-height: 22px;
+        font-size: 20px;
+        line-height: 32px;
     }
 
     .gpt3_feature_container_feature_text p{
-        font-size: 12px;
-        line-height: 20px;
+        font-size: 16px;
+        line-height: 24px;
     }
 
     .gpt3_feature_container_feature{
